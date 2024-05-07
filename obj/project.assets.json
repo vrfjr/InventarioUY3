@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VagnerdaRochaFigueir\\IventarioUY3\\IventarioUY3.csproj",
-      "projectName": "IventarioUY3",
-      "projectPath": "C:\\Users\\VagnerdaRochaFigueir\\IventarioUY3\\IventarioUY3.csproj",
+      "projectUniqueName": "C:\\Users\\VagnerdaRochaFigueir\\inventarioUY3\\inventarioUY3.csproj",
+      "projectName": "inventarioUY3",
+      "projectPath": "C:\\Users\\VagnerdaRochaFigueir\\inventarioUY3\\inventarioUY3.csproj",
       "packagesPath": "C:\\Users\\VagnerdaRochaFigueir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VagnerdaRochaFigueir\\IventarioUY3\\obj\\",
+      "outputPath": "C:\\Users\\VagnerdaRochaFigueir\\inventarioUY3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VagnerdaRochaFigueir\\AppData\\Roaming\\NuGet\\NuGet.Config"

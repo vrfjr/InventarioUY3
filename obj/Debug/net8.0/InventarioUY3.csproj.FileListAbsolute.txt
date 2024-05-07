@@ -1,0 +1,15 @@
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\bin\Debug\net8.0\inventarioUY3.exe
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\bin\Debug\net8.0\inventarioUY3.deps.json
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\bin\Debug\net8.0\inventarioUY3.runtimeconfig.json
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\bin\Debug\net8.0\inventarioUY3.dll
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\bin\Debug\net8.0\inventarioUY3.pdb
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.AssemblyInfoInputs.cache
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.AssemblyInfo.cs
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.csproj.CoreCompileInputs.cache
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.dll
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\refint\inventarioUY3.dll
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.pdb
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\inventarioUY3.genruntimeconfig.cache
+C:\Users\VagnerdaRochaFigueir\inventarioUY3\obj\Debug\net8.0\ref\inventarioUY3.dll
+C:\Users\VagnerdaRochaFigueir\InventarioUY3\obj\Debug\net8.0\InventarioUY3.sourcelink.json
