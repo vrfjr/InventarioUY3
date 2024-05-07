@@ -1,8 +1,8 @@
-# Iventario de Equipamentos
+# Inventario de Equipamentos
 
 ## Descrição
 
-O projeto Iventario de Equipamentos é um sistema de back-end desenvolvido para armazenar e gerenciar informações de um inventário de equipamentos. Ele oferece funcionalidades para adicionar, remover, atualizar e listar equipamentos, proporcionando uma maneira eficiente de manter registros precisos de todos os equipamentos em uma organização.
+O projeto  Inventario de Equipamentos é um sistema de back-end desenvolvido para armazenar e gerenciar informações de um inventário de equipamentos. Ele oferece funcionalidades para adicionar, remover, atualizar e listar equipamentos, proporcionando uma maneira eficiente de manter registros precisos de todos os equipamentos em uma organização.
 
 ## Tecnologias Utilizadas
 
@@ -12,12 +12,12 @@ O projeto Iventario de Equipamentos é um sistema de back-end desenvolvido para 
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/iventario-equipamentos.git
+    git clone https://github.com/seu-usuario/ Inventario-equipamentos.git
     ```
 
 2. **Navegue até o diretório do projeto:**
     ```bash
-    cd iventario-equipamentos
+    cd  Inventario-equipamentos
     ```
 
 3. **Instale as dependências:**
